@@ -11,7 +11,7 @@ p{
 }
 
 body{
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -19,3 +19,29 @@ h1{
 p{
     font-style: italic; 
 }
+
+nav{
+    background-color: rgb(28, 173, 225);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ }
+
+ li{
+    float: left;
+ }
+
+
+ li a {
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+ }
+ li a:hover{
+    background-color: burlywood;
+ }
