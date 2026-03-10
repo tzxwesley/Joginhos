@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+.imagens{
+       text-align: center;
+}
+
+p{
+    font-size: 40px;
+}
+
+body{
+    background-color: azure;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-style: italic; 
+}
